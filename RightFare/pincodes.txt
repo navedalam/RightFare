@@ -1,0 +1,93 @@
+110001 | Parliament House, Patiala House, Janpath, Pragati Maidan, Rail Bhawan, Election Commission, Shastri Bhawan, Baroda House, Bhagat Singh Market, New Delhi HO
+110002 | Rajghat Power House, Darya Ganj, Gandhi Smarak Nidhi, I.P.Estate, Ajmeri Gate Extension, Minto Road
+110003 | elhi High Court, Lodi Colony, Pragati Vihar, Safdarjung Air Port,C G O Complex, Kasturba Naga
+110004 | Rashtrapati Bhawan
+110005 | Karol Bagh, Guru Gobind Singh Marg, Anand Parbat PO, Master Prithvi Nath Marg
+110006 | Chawri Bazar, Jama Masjid, Chandni Chowk, Delhi GPO, Hauz Qazi
+110007 | Delhi University, Birla Lines, Sadar Bazar, Sabzi Mandi, Kamla Nagar, Padam Nagar, Shakti Nagar
+110008 | Patel Nagar, Patel Nagar South &amp; West, Desh Bandhu Gupta Road
+110009 | Model Town II &amp;, III, G.T.B.Nagar, Dr.Mukerjee Nagar, Nirankari Colony, Gujra Wala Town
+110010 | Delhi Cantt, C.V.D., Dhaula Kuan, Subroto Park, Pinto Park, A F Palam, Kirby Place
+110011 | South Avenue, Nirman Bhawan, Gym Khana Club, Udyog Bhawan
+110012 | Indra Puri, National Physical Laboratory
+110013 | Hazrat Nizamuddin, Yusuf Sarai
+110014 | Jungpura, Hari Nagar Ashram, Pratap Market
+110015 | Mansarover Garden, Karam Pura, Ramesh Nagar, Delhi Industrial Area, Zakhira
+110016 | IIT, Hauz Khan, Green Park Market, Technology Bhawan
+110017 | Malviya Nagar, Chirag Delhi, Pushp Vihar, Saket, Panchsheel Enclave, Sarvodya Enclave
+110018 | Vikas Puri, Tilak Nagar, Tilak Nagar East, Chand Nagar, Mahabir Nagar, Chaukhandi, Khyala Phase - I &amp; II
+110019 | Nehru Place, Chittranjan Park, Govindpuri, Kalkaji, Alaknanda
+110020 | Tehkhand, Okhla Industrial Area phase-I
+110021 | South Delhi Campus, Moti Bagh, Chanakya Puri, Nanak Pura, Anand Niketan
+110022 | R K Puram Sec - 1,R K Puram Sec - 4,R K Puram Sec - 5,R K Puram Sec - 7,R K Puram Sec - 8,R K Puram Sec - 12
+110023 | Sarojini Nagar, Kidwai Nagar East &amp; West, Netaji Nagar, Laxmi Bai Nagar
+110024 | Lajpat Nagar, Defence Colony, Krishna Market
+110025 | New Friends Colony, Jamia Nagar, Sukhdev Vihar, Zakir Nagar
+110026 | Punjabi Bagh Sec - III, Shivaji Park, Ashoka Park Extension
+110027 | Rajouri Garden, Subhash Nagar, Janta Market
+110028 | Naraina Village &amp; Industrial Area
+110029 | S. J. Enclave, Ansari Nagar, Nauroji Nagar
+110030 | Ghitorni, Mehrauli, Paryavaran Complex
+110031 | Shastri Nagar, Gandhi Nagar, Geeta Colony, Kailash Nagar, Rajgarh Colony
+110032 | Man Sarovar Park, Shahdara, Shivaji Park, Loni Road, Balbir Nagar, Vishwas Nagar
+110033 | Jahangir Puri, N.S.Mandi
+110034 | Rani Bagh, Anandwas, Shakur Pur, Saraswati Vihar, Pitam Pura
+110035 | Keshav Puram, Sarai Rohilla, Inderlok, Rampura
+110036 | Alipur, Bakoli, Kadipur, Khampur, Tajpur kalan
+110037 | Gurgaon road, Kapashera, Mahipalpur, Palam airport, Samalkha
+110038 | Rajokari
+110039 | Bawana, Auchandi, Daryapur Kalan, Katewara
+110040 | Bhorgarh, Narela
+110041 | Nangloi, Sultan Puri, Piragarhi
+110042 | Badli, Pehlad Pur, Shahbad Daulatpur, Samai Pur
+110043 | Najafgarh, Jhatikara
+110044 | Tugalkabad Railway Colony, Badarpur, Jaitpur, Lal Kuan
+110045 | Dabri, Indira Park, Palam Village
+110046 | Sagarpur, Nangal Raya
+110047 | Aya Nagar, Mandi
+110048 | Greater Kailash, Masjid Moth
+110049 | Andrewsganj, Sadiq Nagar, Gulmohar Park, Gautam Nagar
+110051 | Krishna Nagar, Jagatpuri, Ram Nagar, Azad Nagar, Azad Nagar
+110052 | Ashok Vihar, Nimr, Shastri Nagar, Wazir Pur, Bhajan Pura
+110053 | Seelampur, Yamuna Vihar, New Usmanpur, Ghonda
+110054 | Civil Lines, L.R. Market, Timar Pur
+110055 | Pahar Ganj, A.K.Market, Multani Dhanda
+110056 | Shakur Basti, New Multan Nagar
+110057 | Vasant Vihar- I &amp; II
+110058 | Janak Puri A-3, B-1, C-4, D.E.S.U. Colony
+110059 | Uttam Nagar, Jeevan Park, Hastal Village, Matiala
+110060 | Rajender Nagar
+110061 | Bijwasan, Shahbad Mohammadpur
+110062 | AFS Tugalkabad, BSF Camp Tigri, Hamdard Nagar, Khanpur, Pushpa Bhawan, Deoli
+110063 | Jwalaheri,Paschim Vihar, Madipur
+110064 | Hari Nagar, Maya Puri
+110065 | Nehru Nagar, East of Kailash, Sriniwaspuri
+110066 | R K Puram, Bikaji Cama Place
+110067 | J.N.U., Munirka
+110068 | Maidan Garhi, Ignou,Neb Sarai
+110070 | Vasant Kunj, Masood Pur
+110071 | Chhawla, Badhosarai, Kangan Heri
+110073 | Galib Pur, Quazipur, Issapur
+110074 | Chattarpur, Fatehpur Beri, Dera, Satbari
+110075 | Dwarka Sec-6
+110076 | Sarita Vihar, Madanpur Khadar, Ali Village
+110078 | N.S.I.T Dwarka, Raj Nagar - Ii
+110081 | Karala, Kanjhawla, Chand Pur, Gheora, Jaunti, Rani Khera
+110082 | Khera Kalan, Khera Khurd, Holambi Kalan
+110083 | Mangol Puri - A Block, C Block, I Block, N Block
+110084 | Burari, Jagatpur, Nathupura
+110085 | Rohini, Prashant Vihar, Rithala
+110086 | Budh Vihar, Sultan Puri - B, C, &amp; F Block
+110087 | Peeragarhi, Jwala Puri, Sunder Vihar
+110088 | Shalimar bagh, Haiderpur, Maurya Enclave Po
+110091 | Patparganj, Trilok Puri, Mayur Vihar ph-I, Himmatpuri, Kalyanpuri, Chilla
+110092 | Anand Vihar, Shakarpur, Mandawali, Nirman Vihar, Surajmal Vihar, Yozna Vihar
+110093 | Loni Road, Nand Nagri &quot;A&quot; &amp; &quot;C&quot;, Mandoli Saboli
+110094 | Sonia Vihar, Khazuri Khas, Karawal Nagar, Dayalpur, Johripur, Gokal Puri
+110095 | Dilshad Garden, Jhilmil, Old Seemapuri, Vivek Vihar
+110096 | Ghazipur, Mayur Vihar ph-III, Vasundhra Enclave
+201301 | Noida
+122001 | Gurgaon
+121002 | Faridabad City
+121001 | Faridabad NIT
+201009 | Ghaziaba

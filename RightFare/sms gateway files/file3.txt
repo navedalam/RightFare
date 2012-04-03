@@ -1,0 +1,9 @@
+From: 6402FCC9D4
+From_SMSC: 919811009998
+Sent: 10-05-19 12:13:20
+Received: 10-05-26 15:32:00
+Subject: GSM1
+Alphabet: ISO
+UDH: false
+
+RF2 : rohini,laxmi nagar,150.54
